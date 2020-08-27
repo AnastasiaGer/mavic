@@ -18,6 +18,11 @@ $(function(){
 		autoScrolling:true,
     scrollHorizontally: true,
     sectionSelector: '.page-section',
+    // scrollOverflow: false,
+    // scrollOverflowReset: false,
+    // scrollOverflowOptions: null,
+    // touchSensitivity: 15,
+    // scrollingSpeed: 700,
 	});
 
   
