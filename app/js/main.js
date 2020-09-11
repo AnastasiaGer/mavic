@@ -23,6 +23,9 @@ $(function(){
     scrollOverflowOptions: null,
     touchSensitivity: 15,
     scrollingSpeed: 700,
+    scrollOverflow: true,
+    menu: '#header__nav',
+    anchors: ['top', 'products', 'benefits', 'specification', 'questions','contacts'],
 	});
 
   
