@@ -8,6 +8,7 @@
     "autoprefixer": "9.8.6",
     "browser-sync": "2.26.12",
     "del": "5.0.0",
+    "fullpage.js": "3.0.9",
     "gulp": "4.0.2",
     "gulp-csso": "4.0.1",
     "gulp-plumber": "1.2.1",
@@ -21,6 +22,7 @@
     "gulp-webp": "4.0.1",
     "html-minifier": "4.0.0",
     "posthtml-include": "1.4.3",
+    "slick-carousel": "1.8.1",
     "stylelint": "13.6.1",
     "stylelint-config-htmlacademy": "0.1.x",
     "wowjs": "1.1.3"
